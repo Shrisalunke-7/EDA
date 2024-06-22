@@ -4,8 +4,7 @@ EZYV02,Asia,Master's,Y,N,2412,2002,Northeast,83425.65,Year,Y,Certified
 EZYV03,Asia,Bachelor's,N,Y,44444,2008,West,122996.86,Year,Y,Denied
 EZYV04,Asia,Bachelor's,N,N,98,1897,West,83434.03,Year,Y,Denied
 EZYV05,Africa,Master's,Y,N,1082,2005,South,149907.39,Year,Y,Certified
-EZYV06,Asia,Master's,Y,N,2339,2012,South,78252.14,Year,Y,Certified
-EZYV07,Asia,Bachelor's,N,N,4985,1994,South,53635.39,Year,Y,Certified
+EZYV06,Asia,Mas,Asia,Bachelor's,N,N,4985,1994,South,53635.39,Year,Y,Certified
 EZYV08,North America,Bachelor's,Y,N,3035,1924,West,418.2298,Hour,Y,Denied
 EZYV09,Asia,Bachelor's,N,N,4810,2012,Midwest,74362.19,Year,Y,Certified
 EZYV10,Europe,Doctorate,Y,N,2251,1995,South,67514.76,Year,Y,Certified
